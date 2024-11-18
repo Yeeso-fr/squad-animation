@@ -16,6 +16,8 @@ Masterclass de Sonia: plutôt le mercredi ~12h30/13h30
 
 Pas d'enregistrement ; on peut refaire les sessions.
 
+Faire des sessions de café dialoque. 1 semaine sur 2 masterclass, l'autre semaine c'est café ou répéttion.
+
 **Thèmes:**
 - Animer le slack => donner envie aux personnes de venir dans le slack
 - Master class
