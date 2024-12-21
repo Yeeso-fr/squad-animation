@@ -9,12 +9,14 @@ Communication:
 
 ## Planning
 
-###Mercredi 8 : Masterclass 12h30/13h30
+Mercredi 8 : Masterclass 12h30/13h30
 - Titre :
 - Description courte :
   
-###Mercredi 15 : Café Yeeso
-###Mercredi 22 : Masterclass 12h30/13h30 Sonia Peiron
+Mercredi 15 : Café Yeeso
+
+Mercredi 22 : Masterclass 12h30/13h30 Sonia Peiron
 - Titre :
 - Description courte :
-###Mercredi 29 : Café Yeeso
+
+Mercredi 29 : Café Yeeso
