@@ -25,10 +25,23 @@ Faire des introductions sur des sujets technique sur 30 à 45 min max.
 -- Sujets abordés : Ethos / Pathos/ Logos, Méthode pour connaître son public pour s'adapter. 
 
 - 3ème sujet : Prise de parole  en public / Comment casser son syndrome de l'imposteur et affirmer son autorité par la prise de parole ? 
--- Sujets abordés : Confiance en soi / Estime de soi / Posture et voix / Piliers de sécurité de la prise de parole. 
+-- Sujets abordés : Confiance en soi / Estime de soi / Posture et voix / Piliers de sécurité de la prise de parole.
 
 - 4ème sujet :Prise de parole  en public / Comment réussir à convaincre en moins de 10 minutes ? 
 -- Sujets abordés : FUOM, les types d'arguments, la structure d'un argument. 
 
 - 5ème sujet : Prise de parole  en public / Comment passer d'un rôle d'expert à un rôle de leader par la persuasion ? 
 -- Sujets abordés : Pathos / Histoire / Emotions / Prosodie / Figures de style / Bénéfices attendus / biais cognitifs
+
+### Par Falilou 
+
+- 1er sujet : Comment construire un profil LinkedIn qui attire mais surtout qui retienne ?  
+-- Sujets abordés : 
+
+- 2ème sujet : Comment rédiger un sujet LinkedIn à fort impact ? 
+-- Sujets abordés : 
+
+### Par Marjorie 
+
+- 1er sujet : atelier pour faire des Katas en mob programming
+-- Sujets abordés :  
