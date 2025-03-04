@@ -45,3 +45,8 @@ Faire des introductions sur des sujets technique sur 30 à 45 min max.
 
 - 1er sujet : atelier pour faire des Katas en mob programming
 -- Sujets abordés :  
+
+
+## Evènement pour le mois en cours
+- 18 mars :  Git par Angélique
+- 
