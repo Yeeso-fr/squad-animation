@@ -50,4 +50,5 @@ Faire des introductions sur des sujets technique sur 30 à 45 min max.
 ## Prochains evènements
 - 18 mars :  Git par Angélique
 - 27 mars : l'histoire et le storytelling par Pierre
+- 2 avril :  accessibilité par Emmanuelle
 - 14 avril : Slack par Angélique
