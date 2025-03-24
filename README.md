@@ -51,4 +51,5 @@ Faire des introductions sur des sujets technique sur 30 à 45 min max.
 - 18 mars :  Git par Angélique
 - 27 mars : l'histoire et le storytelling par Pierre
 - 2 avril :  accessibilité par Emmanuelle
+- 7 avril : table-ronde/discussion inclusion des femmes autistes dans la tech et mères d'enfants autistes.  
 - 14 avril : Slack par Angélique
