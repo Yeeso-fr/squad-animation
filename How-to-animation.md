@@ -3,6 +3,7 @@
 ## Un sujet potentiel apparait mais j'ai pas toutes les infos
 
 - [créer une issue](https://github.com/Yeeso-fr/squad-animation-private/issues)
+- L'issue devrait apparaitre sur le [Kanban](https://github.com/orgs/Yeeso-fr/projects/1)
 - Mettre des label en fonction de ce qu'il manque (date manquante, etc...)
 
 ## Ca y est on part pour un talk !
