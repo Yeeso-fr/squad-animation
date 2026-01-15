@@ -8,7 +8,8 @@
 
 ## Ca y est on part pour un talk !
 
-- préparer le brouillon sur meetup pour placer la date
+- préparer le brouillon sur [meetup](https://www.meetup.com/yeeso-itwomen-network/) pour placer la date
 - préparer le visuel "Oratrice/Orateur" avec le template canvas [TODO le lien]
 - ajouter au visuel des évènements mensuels
+- préparer le lien teams
 - commencer à faire la com'
