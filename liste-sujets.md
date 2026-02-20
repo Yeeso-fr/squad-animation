@@ -45,6 +45,7 @@
 ## Prochains evènements
 - 18 mars :  Git par Angélique
 - 27 mars : l'histoire et le storytelling par Pierre
+- 12 mars : Lunch Talk Pauline
 - 2 avril :  accessibilité par Emmanuelle
 - 7 avril : table-ronde/discussion inclusion des femmes autistes dans la tech et mères d'enfants autistes par Virginie et Angi.  
 - 14 avril : Slack par Angélique
