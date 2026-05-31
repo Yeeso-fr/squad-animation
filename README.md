@@ -1,4 +1,4 @@
-# Ressources privées de la squad animation
+# Ressources de la squad animation
 
 ## Objectifs de la Squad
 
