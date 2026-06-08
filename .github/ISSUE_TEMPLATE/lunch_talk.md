@@ -22,9 +22,9 @@ type: task
 
 # Todolist
 
-[ ] Creation du meetup
-[ ] Creation du visuel
-[ ] Ajout au planning du mois
-[ ] Creation du lien teams
-[ ] Communication sur slack
-[ ] Communication sur LinkedIn
+- [ ] Creation du meetup
+- [ ] Creation du visuel
+- [ ] Ajout au planning du mois
+- [ ] Creation du lien teams
+- [ ] Communication sur slack
+- [ ] Communication sur LinkedIn
