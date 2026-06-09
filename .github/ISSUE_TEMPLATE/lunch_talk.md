@@ -1,6 +1,6 @@
 ---
-name: Lunch talk proposal
-about: Start a task for a lunch talk
+name: Proposition de Masterclass
+about: Proposer un sujet de masterclass pour visio
 title: ''
 labels: 'new'
 assignees: ''
@@ -14,9 +14,9 @@ type: task
 
 ## Nom des internenantes ou intervenants
 
-## Titre du talk
+## Titre de la masterclass
 
-## Description du talk
+## Description de la masterclass
 
 ## Nom des animatrices Yeeso présentes le jour J
 
